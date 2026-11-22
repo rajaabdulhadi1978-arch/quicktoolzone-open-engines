@@ -12,6 +12,8 @@
 
 | Tool | Official 2026 Rules Modeled | Live Demo |
 |---|---|---|
+| **Blood Test & Lipid Panel Lab Range Decoder (US / SI)** | 13 visual clinical gauges (ACC/AHA Lipids, Non-HDL, TG/HDL, ADA HbA1c/eAG, TSH, Vitamin D, race-free CKD-EPI 2021 eGFR) — 100% zero-upload privacy | [Open Tool](https://quicktoolzone.com/blood-test-lab-range-analyzer) |
+| **2026 US HSA vs. PPO Out-of-Pocket Health Cost** | IRS Rev. Proc. 2025-19/32 (`$4,400/$8,750` HSA, `$3,400` FSA), Section 125 `7.65%` FICA, CA/NJ state tax non-conformity & spend crossover curve | [Open Tool](https://quicktoolzone.com/hsa-vs-ppo-calculator) |
 | **2026 Solo 401(k) vs. SEP-IRA Calculator** | IRS Notice 2025-67 (`$72k/$80k/$83,250`), 20% Sole Prop vs. 25% S-Corp W-2, 2026 Mandatory Roth Catch-Up (`§414(v)(7)`), Mega Backdoor & QBI | [Open Tool](https://quicktoolzone.com/solo-401k-vs-sep-ira-calculator) |
 | **2026 Roth Conversion & Medicare IRMAA Cliff** | Official CMS Part B & D `$1` cliffs (`$109k/$218k`), 2-year lookback, OBBBA `$6k/$12k` senior deduction phase-out, Form 8606 Pro-Rata | [Open Tool](https://quicktoolzone.com/roth-conversion-irmaa-calculator) |
 | **2026 Quarterly Estimated Tax (Form 1040-ES)** | 90%/100%/110% Safe Harbor, Form 2210 Schedule AI annualized income, IRC `§6621` penalties, California 30/40/0/30 split & `.ics` downloads | [Open Tool](https://quicktoolzone.com/quarterly-estimated-tax-calculator) |
